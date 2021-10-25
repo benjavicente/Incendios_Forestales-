@@ -4,9 +4,9 @@
 
 ### esto sería un h3
 
-*creo que ya entendieron la idea*
+*cursiva*
 
-**Lo anterior quedará en itálica, esto en negrita**
+**negrita**
 
 \*noten la diferencia\*
 
