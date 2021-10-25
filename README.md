@@ -18,3 +18,7 @@ Incendios forestales en Chile de 2017 (datos)
 
 
 [CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
+
+4. Referentes infografias 
++ https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
