@@ -30,7 +30,6 @@ Incendios forestales en Chile de 2017 (datos)
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
 + https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html
 + https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html
++ https://graphics.reuters.com/CLIMATE-WILDFIRES/lbvgnrqjepq/+ 
 + https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html
 + https://graphics.reuters.com/USA-WILDFIRE/POLLUTION/xlbpgjgervq/index.html
-+ https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
-+ https://graphics.reuters.com/CLIMATE-WILDFIRES/lbvgnrqjepq/
