@@ -22,3 +22,15 @@ Incendios forestales en Chile de 2017 (datos)
 4. Referentes infografías 
 + https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES/0100B30H252/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-SIZE%20/0100B4QG2FG/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-SATELLITEIMAGES/0100B4R62H1/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-SCALE/0100B4VK2PN/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-SMOK/0100B4W52R7/index.html
++ https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
++ https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html
++ https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html
++ https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html
++ https://graphics.reuters.com/USA-WILDFIRE/POLLUTION/xlbpgjgervq/index.html
++ https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
++ https://graphics.reuters.com/CLIMATE-WILDFIRES/lbvgnrqjepq/
