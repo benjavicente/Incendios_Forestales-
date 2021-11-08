@@ -26,10 +26,12 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 |           |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
 
 
+![Tormenta de fuego](readme/mapas-incendios.jpg)
+
+Acá vemos algunos mapas que muestran las zonas afectadas
 
 ![Tormenta de fuego](readme/mapa.jpg)
 
-![Tormenta de fuego](readme/mapas-incendios.jpg)
 
 Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
 
