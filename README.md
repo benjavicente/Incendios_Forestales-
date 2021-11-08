@@ -17,7 +17,6 @@ Rescátamos la línea gráfica de la ilustración, queremos mostrar un contraste
 
 Si bien se estima que la extensión total de territorios afectados fue cercana a las 500.000 hectáreas, el catastro efectuado por tipos de uso de suelo da cuenta de una cifra de 467.538 hectáreas, entre las regiones de Coquimbo y La Araucanía, siendo la región del Maule la más afectada con alrededor de 280.000 hectáreas. Por tipo de uso suelo, el destinado a plantaciones forestales fue el más afectado, también con alrededor de 280.000 hectáreas. 
 
-![Tormenta de fuego2] (https://raw.githubusercontent.com/InfoDigitalGrupo/Incendios_Forestales-/main/readme/datos.jpg)
 
 
 
@@ -27,8 +26,7 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 
 
 
-
-### Referentes bibliográficas «TORMENTA DE FUEGO» 
+### Linkografías «TORMENTA DE FUEGO» 
 + [CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
 + https://www.cr2.cl/incendios/
 Incendios forestales en Chile de 2017 (datos)
