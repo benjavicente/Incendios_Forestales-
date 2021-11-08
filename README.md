@@ -17,18 +17,20 @@ Rescátamos la línea gráfica de la ilustración, queremos mostrar un contraste
 
 Si bien se estima que la extensión total de territorios afectados fue cercana a las 500.000 hectáreas, el catastro efectuado por tipos de uso de suelo da cuenta de una cifra de 467.538 hectáreas, entre las regiones de Coquimbo y La Araucanía, siendo la región del Maule la más afectada con alrededor de 280.000 hectáreas. Por tipo de uso suelo, el destinado a plantaciones forestales fue el más afectado, también con alrededor de 280.000 hectáreas. 
 
-![Tormenta de fuego](readme/datos.jpg)
+|   Región  | Bosque Nativo | Matorral y Praderas | Plantaciones | Uso Agrícola |  Otros |  Total  |
+|:---------:|:-------------:|:-------------------:|:------------:|:------------:|:------:|:-------:|
+| O'Higgins |     34.648    |        10.325       |    34.399    |     8.609    |   146  |  88.127 |
+|   Maule   |     29.588    |        51.055       |    185.875   |    12.551    |   862  | 279.931 |
+|  Bío-Bío  |     12.894    |        15.177       |    60.280    |    10.357    |   772  |  99.480 |
+|   Total   |     77.130    |        76.557       | **280.554**  |    31.517    |  1.780 | 467.538 |
+|           |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
+
+
 
 ![Tormenta de fuego](readme/mapa.jpg)
 
 Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
 Cambiaríamos: por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas(bosq nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio 
-
-
-
-
-
-
 
 
 
