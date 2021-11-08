@@ -1,6 +1,6 @@
 # Tormenta de Fuego, Chile 2017
 
-## “Ocurrida en enero y febrero de 2017, es la catástrofe forestal más grave de nuestra historia”
+## “Mega Incendio ocurrido en enero y febrero de 2017, es la catástrofe forestal más grave de nuestra historia”
 
 ### Introducción
 
