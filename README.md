@@ -29,8 +29,17 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 
 ![Tormenta de fuego](readme/mapa.jpg)
 
+![Tormenta de fuego](readme/mapas-incendios.jpg)
+
 Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
 Cambiaríamos: por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas(bosq nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio 
+
+![Tormenta de fuego](readme/fauna-afectada.jpg)
+
+Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una locación
+Cambiaríamos: por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas
+plantaciones: pino, eucaliptus, otros
+en categoría de conservación: palma, puya, qeule
 
 
 
