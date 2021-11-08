@@ -2,7 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-
-a {
- color: red; 
+img {
+    width: 100%;
+    height: max-content;
+    max-height: 300px;
+    object-fit: contain;
+    margin: 0 auto;
+    display: block;
 }
