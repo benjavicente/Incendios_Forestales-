@@ -1,8 +1,8 @@
-# Incendios Forestales
+# Tormenta de Fuego, Chile 2017
 
-## Impacto Socioecológico de los Incendios Forestales
+## “Ocurrida en enero y febrero de 2017, es la catástrofe forestal más grave de nuestra historia”
 
-### Tormenta de Fuego, Chile 2017
+### Impacto Socioecológico del Megaincendio
 
 
 *1. Incendios Forestales: causas y cosecuencias
