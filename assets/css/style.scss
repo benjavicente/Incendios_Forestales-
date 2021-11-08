@@ -1,6 +1,10 @@
 ---
 ---
 
+// https://github.com/jekyll/minima#customizing-templates
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
 a {
  color: red; 
 }
