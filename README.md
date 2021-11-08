@@ -20,6 +20,7 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 ![Tormenta de fuego](readme/datos.jpg)
 
 ![Tormenta de fuego](readme/mapa.jpg)
+
 Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
 Cambiaríamos: por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas(bosq nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio 
 
