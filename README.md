@@ -25,21 +25,14 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 
 
 
-1. Incendios Forestales: causas y cosecuencias
 
-2. Incendio 2017: causa, consecuencia, cómo afectó a la fauna, flora, cómo se trató y manejó de forma humana, cuánto duró, cuánto abacó, cómo se apagó, quiénes participaron, si hubo aviomes, bomberos, agua, hubo apagsguefo. consecuencias en cuanto a la pérdida forestal u qié pasó con su fauna\
-
-3. DESCRIPCIÓN Y EFECTOS «TORMENTA DE FUEGO» 
-+ https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf
-Incendios forestales en Chile: Causas, impactos y resiliencia (investigación)
+### Referentes bibliográficas «TORMENTA DE FUEGO» 
++ [CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
 + https://www.cr2.cl/incendios/
 Incendios forestales en Chile de 2017 (datos)
 + https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2017
 
-
-[CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
-
-4. Referentes infografías 
+### Referentes infografías 
 + https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES/0100B30H252/index.html
